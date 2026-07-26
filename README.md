@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.everlift.fit/icon.png" alt="Everlift app icon" width="112" />
+  <img src="./assets/icon.png" alt="Everlift app icon" width="112" />
 
 # Everlift
 
