@@ -20,10 +20,19 @@ Live on iPhone, iPad, and Android · 9 languages · No ads · Works offline
 
 Everlift is an independently built workout companion for lifters who care about speed and accurate numbers. It combines one-tap set logging with recovery intelligence, progressive-overload tracking, honest PR detection, and detailed training analytics—without turning a workout into data entry.
 
+## Product tour
+
 <p align="center">
-  <img src="https://www.everlift.fit/screenshots/01_home.png" alt="Everlift readiness dashboard" width="31%" />
-  <img src="https://www.everlift.fit/screenshots/10_active_workout.png" alt="Everlift active workout logging" width="31%" />
-  <img src="https://www.everlift.fit/screenshots/07_progress_overload_plateau.png" alt="Everlift progress and plateau analysis" width="31%" />
+  <img src="https://www.everlift.fit/screenshots/01_home.png" alt="Home and recovery readiness" width="31%" />
+  <img src="https://www.everlift.fit/screenshots/10_active_workout.png" alt="Fast active-workout logging" width="31%" />
+  <img src="https://www.everlift.fit/screenshots/02_history.png" alt="Workout history" width="31%" />
+  <img src="https://www.everlift.fit/screenshots/04_exercises.png" alt="Exercise library" width="31%" />
+  <img src="https://www.everlift.fit/screenshots/11_exercise_detail.png" alt="Exercise progress details" width="31%" />
+  <img src="https://www.everlift.fit/screenshots/05_progress_top.png" alt="Progress analytics overview" width="31%" />
+  <img src="https://www.everlift.fit/screenshots/06_muscle_balance.png" alt="Muscle balance analytics" width="31%" />
+  <img src="https://www.everlift.fit/screenshots/07_progress_overload_plateau.png" alt="Progressive overload and plateau detection" width="31%" />
+  <img src="https://www.everlift.fit/screenshots/08_progress_load_strongest.png" alt="Training load and strongest lifts" width="31%" />
+  <img src="https://www.everlift.fit/screenshots/09_progress_frequency_journey.png" alt="Workout frequency and lifting journey" width="31%" />
 </p>
 
 ## What makes it different
