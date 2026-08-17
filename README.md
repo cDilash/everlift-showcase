@@ -9,7 +9,7 @@
 
 </div>
 
-A gym workout tracker for iPhone, iPad and Android. Currently 1.0.12, iOS build 104. Around 752 commits since January 2026.
+A gym workout tracker for iPhone, iPad and Android. Started in January 2026, currently on 1.0.12.
 
 The source is private — this is the write-up.
 
