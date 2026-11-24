@@ -9,7 +9,7 @@
 
 </div>
 
-A gym workout tracker for iPhone, iPad and Android. Started in January 2026, currently on 1.0.12.
+A gym workout tracker for iPhone, iPad and Android. Started in January 2026, currently on 1.0.14 — the redesign.
 
 The source is private — this is the write-up.
 
@@ -62,16 +62,16 @@ The plate calculator holds your gym's actual plate inventory, because a calculat
 ## Product tour
 
 <p align="center">
-  <img src="https://www.everlift.fit/screenshots/01_home.png" alt="Home and recovery readiness" width="31%" />
-  <img src="https://www.everlift.fit/screenshots/10_active_workout.png" alt="Fast active-workout logging" width="31%" />
-  <img src="https://www.everlift.fit/screenshots/02_history.png" alt="Workout history" width="31%" />
-  <img src="https://www.everlift.fit/screenshots/04_exercises.png" alt="Exercise library" width="31%" />
-  <img src="https://www.everlift.fit/screenshots/11_exercise_detail.png" alt="Exercise progress details" width="31%" />
-  <img src="https://www.everlift.fit/screenshots/05_progress_top.png" alt="Progress analytics overview" width="31%" />
-  <img src="https://www.everlift.fit/screenshots/06_muscle_balance.png" alt="Muscle balance analytics" width="31%" />
-  <img src="https://www.everlift.fit/screenshots/07_progress_overload_plateau.png" alt="Progressive overload and plateau detection" width="31%" />
-  <img src="https://www.everlift.fit/screenshots/08_progress_load_strongest.png" alt="Training load and strongest lifts" width="31%" />
-  <img src="https://www.everlift.fit/screenshots/09_progress_frequency_journey.png" alt="Workout frequency and lifting journey" width="31%" />
+  <img src="./assets/screens/home.webp" alt="Home and Today’s Readiness" width="19%" />
+  <img src="./assets/screens/workout.webp" alt="Active workout with the rest timer" width="19%" />
+  <img src="./assets/screens/log-set.webp" alt="Logging a set with the number pad" width="19%" />
+  <img src="./assets/screens/history.webp" alt="Workout history and calendar" width="19%" />
+  <img src="./assets/screens/exercises.webp" alt="Exercise library" width="19%" />
+  <img src="./assets/screens/exercise-detail.webp" alt="One lift’s progress" width="19%" />
+  <img src="./assets/screens/progress.webp" alt="Progress and training volume" width="19%" />
+  <img src="./assets/screens/sets-per-muscle.webp" alt="Sets per muscle" width="19%" />
+  <img src="./assets/screens/this-week.webp" alt="This week" width="19%" />
+  <img src="./assets/screens/workout-prs.webp" alt="A past workout and its PRs" width="19%" />
 </p>
 
 ## Engineering
